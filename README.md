@@ -4,9 +4,9 @@ This is an algorithm that uses backtracking to solve cryptarithmetic puzzles.
 
 ## Installation
 
-Create a java project and add external jar "AI_Ex6.jar". 
-In Eclipse:
-Right click on project --> Build Path --> Configure Build Path --> Libraries --> Add External JARs... -> Select "AI_Ex6.jar" --> run executable as Java application
+Create a java project and add external jar _"AI_Ex6.jar"_. 
+\nIn Eclipse:
+Right click on project --> Build Path --> Configure Build Path --> Libraries --> Add External JARs... -> Select _"AI_Ex6.jar"_ --> run executable as Java application
 
 ## Usage
 
@@ -17,10 +17,10 @@ Enter domain:
 Enter domain p, such that summation is in Zp. 
 
 After that, you are asked to insert the cryptarithmetic puzzle. 
-Puzzle specification:
-	-- puzzle's first line has to be 2 or 3 letters
-	-- puzzle's second line has to have same length as first
-	-- puzzle's third line has to be 3 letters
+\nPuzzle specification:
+- puzzle's first line has to be 2 or 3 letters
+- puzzle's second line has to have same length as first
+- puzzle's third line has to be 3 letters
 
 User is asked to input line:
 ```java
