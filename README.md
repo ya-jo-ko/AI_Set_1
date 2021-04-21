@@ -2,7 +2,7 @@
 
 This is an algorithm that uses backtracking to solve cryptarithmetic puzzles.
 
-## Installation
+## Installation 
 
 Create a java project and add external jar _"AI_Ex6.jar"_. <br />
 In Eclipse:<br />
