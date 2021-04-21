@@ -1,4 +1,4 @@
-# AI Set1, Exercise 6
+# AI Set 1, Exercise 6
 
 This is an algorithm that uses backtracking to solve cryptarithmetic puzzles.
 
